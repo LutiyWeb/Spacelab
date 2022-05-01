@@ -323,7 +323,6 @@ const swiper = new Swiper('.swiper', {
 
         320: {
             width: 235,
-            slidesPerView: 'auto',
         },
         470: {
             width: 255,
